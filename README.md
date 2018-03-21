@@ -11,8 +11,8 @@ The final project on Optimized Feedforward Network of CNN with XNOR is available
 
 ## Contact
 
-Vibhatha Abeykoon - vibhatha@gmail.com, https://www.vibhatha.org
-Jcs Kadupitiya - kadupitiya@kadupitiya.lk, https://www.kadupitiya.lk/
+1. Vibhatha Abeykoon - vibhatha@gmail.com, https://www.vibhatha.org
+2. Jcs Kadupitiya - kadupitiya@kadupitiya.lk, https://www.kadupitiya.lk/
 
 
 
